@@ -3,7 +3,7 @@ public class Cocomelon {
         System.out.println("Cocomelon class is created");
        //have some practice
         //making some exercises on java project
-
+       //comment 3 is added
 
 
     }
