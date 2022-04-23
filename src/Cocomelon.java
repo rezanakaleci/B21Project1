@@ -5,6 +5,7 @@ public class Cocomelon {
         //making some exercises on java project
        //comment 3 is added
       // writing more
+        //and more
 
     }
 }
